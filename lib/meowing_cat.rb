@@ -5,3 +5,7 @@ class Cat = Struct.new(:attr_names) do
   end
 puts "meow"
 end
+maru= Cat.new
+mauu.name="Maru"
+maru.name
+maru.meow
